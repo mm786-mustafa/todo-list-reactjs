@@ -1,7 +1,7 @@
-To-do List Manager
+**To-do List Manager**
 I'm thrilled to announce that I've just completed my To-do List Manager project using React JS! 🚀📋 Here's a quick overview of what I accomplished and the key React features I utilized:
 
-Features
+**Features**
 🔹 Task Management: Easily add, edit, and delete tasks with specific categories to keep everything organized and efficient.
 
 🔹 State Management: Leveraging React's useState and useEffect hooks, I manage the state of the application efficiently. This includes tracking tasks, handling task completion, and filtering tasks by category.
@@ -16,7 +16,7 @@ Features
 
 🔹 Responsive UI: Ensured the app looks great on all devices with a clean and user-friendly design.
 
-Technologies Used
+**Technologies Used**
 React JS: For building the user interface.
 CSS: For styling the components.
 Local Storage: For persisting tasks between sessions.
